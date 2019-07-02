@@ -2693,7 +2693,7 @@ import java.util.List;
 import org.springframework.util.StringUtils;
 import com.steven.domain.Table;
 import jdk.nashorn.internal.ir.annotations.Ignore;
-public class HibateUtils {
+public class HibernateUtils {
 	private static final String GET_PREFIX = "get";
 
 	public static void save(Object obj) {
